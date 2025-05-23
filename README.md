@@ -239,8 +239,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support and questions:
 
-- Email: it-support@baze.edu.ng
-- Documentation: [Wiki](https://github.com/mamzy247/bids/readme.md)
+- Email: maryam8580@bazeuniversity.edu.ng
+- Documentation: [README]([https://github.com/mamzy247/bids/readme.md](https://raw.githubusercontent.com/mamzy247/BIDS/refs/heads/main/README.md))
 - Issues: [GitHub Issues](https://github.com/mamzy247/bids/issues)
 
 ## Acknowledgments

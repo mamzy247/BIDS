@@ -240,11 +240,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support and questions:
 
 - Email: it-support@baze.edu.ng
-- Documentation: [Wiki](https://github.com/yourusername/baze-internship-system/wiki)
-- Issues: [GitHub Issues](https://github.com/yourusername/baze-internship-system/issues)
+- Documentation: [Wiki](https://github.com/mamzy247/bids/readme.md)
+- Issues: [GitHub Issues](https://github.com/mamzy247/bids/issues)
 
 ## Acknowledgments
 
 - Baze University IT Department
-- SIWES Coordination Unit
+- Maryam (Me)
 - All contributing developers and testers
